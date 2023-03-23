@@ -9,6 +9,7 @@ The objective of this project is to generate insight on Airbnb dataset and advic
 
 ## Findings and Statistical Analysis:
 The dataset contains 41,533 rows and 18 columns. During the data preprocessing stage, some outliers was discovered in the price of Airbnb and treated using the upper range as replacement. The Airbnb market in New York is divided into 5 locations Bronx, Brooklyn, Manhattan, Queens and Staten Island.
+
 ![image](https://user-images.githubusercontent.com/128179012/227308613-dffe5db0-e8fb-4132-8bf0-9df1dc8f6772.png)
 
 ## Insight Generated:
