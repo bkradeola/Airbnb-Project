@@ -1,4 +1,5 @@
 # Airbnb-Project
+![image](https://user-images.githubusercontent.com/128179012/229878163-b7aaf2d3-34e0-432f-8972-fd80655448f0.png)
 
 ## Executive Summary
 Airbnb subsector of the real estate section can be considered as one of the fast-growing industries in world. A dataset collected from the Datawarehouse on Airbnb business in New York is explored to give relevant insight and advice potential investors into this profitable sector.
